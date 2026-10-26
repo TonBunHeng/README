@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td align="center"><img src="https://api.iconify.design/lucide/map-pin.svg?color=%232563EB&width=22" width="22" alt="" /></td>
-    <td>Based in <b>Cambodia</b> 🇰🇭 &bull; Open to software engineering roles, collaborations, and open-source contributions.</td>
+    <td>Based in <b>Cambodia</b> &bull; Open to software engineering roles, collaborations, and open-source contributions.</td>
   </tr>
 </table>
 
@@ -61,7 +61,7 @@
 <img src="https://skillicons.dev/icons?i=py,php,laravel,mysql" alt="Backend Technologies" />
 
 ### Tools & DevOps Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Developer Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman,figma" alt="Developer and DevOps Tools" />
 
 </div>
 
