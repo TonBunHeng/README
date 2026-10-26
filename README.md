@@ -79,4 +79,4 @@
 <div align="center">
   <h3>Engineering scalable solutions &bull; Crafting clean code &bull; Delivering impact</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=110&section=footer" alt="Decorative footer" />
-</div># README
+</div>
